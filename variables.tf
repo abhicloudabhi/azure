@@ -1,0 +1,11 @@
+variable "environment" {}
+variable "subscription_id" {}
+variable "tenant_id" {}
+variable "acr_name" {}
+variable "resource_group_name" {}
+variable "location" {}
+variable "node_size" {}
+variable "node_count" {}
+variable "acr_sku" {}
+variable "vnet_cidr" {}
+variable "subnet_cidr" {}
